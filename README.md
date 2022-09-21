@@ -35,13 +35,13 @@ MSDS student @ Columbia University <img height="20px" alt="columbia" src="https:
   <table>
     <tr>
         <td width="50%">
-          <a href="https://github.com/junhaz4/github-readme-stats-junhaz4">
+          <a href="https://github.com/junhaz4/github-readme-stats">
           <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-junhaz4.vercel.app/api/top-langs/?username=junhaz4&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scss,scilab&exclude_repo=ostep-homework,junhaz4.space-v1,github-readme-stats&hide_border=true" />
           </a>
         </td>
         <td width="50%">
-          <a href="https://github.com/junhaz4/github-readme-stats-junhaz4">
-           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-junhaz4.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact&hide_border=true" />
+          <a href="https://github.com/junhaz4/github-readme-stats">
+           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-junhaz4.vercel.app/api/wakatime?username=junhaz4&layout=compact&hide_border=true" />
           </a>
         </td>
    </tr>
