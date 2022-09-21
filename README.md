@@ -36,7 +36,7 @@ MSDS student @ Columbia University <img height="20px" alt="columbia" src="https:
     <tr>
         <td width="50%">
           <a href="https://github.com/xindixu/github-readme-stats">
-          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scss,scilab&exclude_repo=ostep-homework,xindixu.space-v1,github-readme-stats&hide_border=true" />
+          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-junhaz4.vercel.app/api/top-langs/?username=junhaz4&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scss,scilab&exclude_repo=ostep-homework,junhaz4.space-v1,github-readme-stats&hide_border=true" />
           </a>
         </td>
         <td width="50%">
