@@ -40,8 +40,8 @@ MSDS student @ Columbia University <img height="20px" alt="columbia" src="https:
           </a>
         </td>
         <td width="50%">
-          <a href="https://github.com/xindixu/github-readme-stats">
-           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-xindixu.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact&hide_border=true" />
+          <a href="https://github.com/junhaz4/github-readme-stats">
+           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-junhaz4.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact&hide_border=true" />
           </a>
         </td>
    </tr>
