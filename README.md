@@ -26,16 +26,16 @@ MSDS student @ Columbia University <img height="20px" alt="columbia" src="https:
 
 #
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaz4)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 ### GitHub Stats 🌟 
 <center>
   <table>
     <tr>
         <td width="50%">
-          <a href="https://github.com/xindixu/github-readme-stats">
+          <a href="https://github.com/junhaz4/github-readme-stats">
           <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-junhaz4.vercel.app/api/top-langs/?username=junhaz4&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scss,scilab&exclude_repo=ostep-homework,junhaz4.space-v1,github-readme-stats&hide_border=true" />
           </a>
         </td>
