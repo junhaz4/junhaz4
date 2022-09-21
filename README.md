@@ -1,6 +1,6 @@
 ### Hi there I'm Junhao/Lawrence 👋
 
-MSDS student @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" />
+MSDS student @ Columbia University <img height="20px" alt="columbia" src="[./assets/columbia-icon.png"/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaz4&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
