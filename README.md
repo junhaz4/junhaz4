@@ -10,32 +10,26 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaz4&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧰 Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <br>
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<br>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaz4)](https://github.com/anuraghazra/github-readme-stats)
