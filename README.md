@@ -48,11 +48,14 @@ MSDS student @ Columbia University <img height="20px" alt="columbia" src="https:
   </table>
 </center>
 <br />
- -->
+
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=LawZhang&theme=dark" width="400"/>
 </a>
+ -->
+ 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LawZhang&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Let's Connect 🙌
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
