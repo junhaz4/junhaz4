@@ -2,7 +2,7 @@
 
 ### About Me 👦
 -  I'm a MS student@Columbia University <img height="20px" alt="columbia" src="https://github.com/xindixu/xindixu/blob/main/assets/columbia-icon.png"/>
--  I’m currently learning: Java.
+-  I’m currently learning: Java & Go.
 -  I’m looking to collaborate on: Anything cool!
 -  How to reach me: jz3430@columbia.edu
 -  Pronouns: he/him
