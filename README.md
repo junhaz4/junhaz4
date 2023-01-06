@@ -1,6 +1,11 @@
 ### Hi there I'm Junhao/Lawrence 👋
 
-MSDS student @ Columbia University <img height="20px" alt="columbia" src="https://github.com/xindixu/xindixu/blob/main/assets/columbia-icon.png"/>
+### About Me 👦
+-  I'm a MS student@Columbia University <img height="20px" alt="columbia" src="https://github.com/xindixu/xindixu/blob/main/assets/columbia-icon.png"/>
+-  I’m currently learning: Java.
+-  I’m looking to collaborate on: Anything cool!
+-  How to reach me: jz3430@columbia.edu
+-  Pronouns: he/him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaz4&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,10 +54,6 @@ MSDS student @ Columbia University <img height="20px" alt="columbia" src="https:
 </center>
 <br />
 
-
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=LawZhang&theme=dark" width="400"/>
-</a>
  -->
  
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LawZhang&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
