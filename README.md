@@ -30,7 +30,7 @@ MSDS student @ Columbia University <img height="20px" alt="columbia" src="https:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaz4)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### GitHub Stats 🌟 
+<!-- ### GitHub Stats 🌟 
 <center>
   <table>
     <tr>
@@ -48,7 +48,7 @@ MSDS student @ Columbia University <img height="20px" alt="columbia" src="https:
   </table>
 </center>
 <br />
-
+ -->
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=LawZhang&theme=dark" width="400"/>
