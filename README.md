@@ -7,7 +7,7 @@
 -  How to reach me: jz3430@columbia.edu
 -  Pronouns: he/him
 
-[![Junhaz4's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junhaz4)](https://github.com/anuraghazra/github-readme-stats)
+[![Junhaz4's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junhaz4&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
