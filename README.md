@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaz4)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 
  ### GitHub Stats 🌟 
 <center>
   <table>
@@ -53,7 +53,7 @@
    </tr>
   </table>
 </center>
-<br />
+<br /> -->
 
 
  
