@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaz4)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -55,7 +55,7 @@
 </center>
 <br />
 
- -->
+
  
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=LawZhang&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
