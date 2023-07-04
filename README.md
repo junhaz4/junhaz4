@@ -33,7 +33,7 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaz4&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaz4&hide=jupyter%20notebook,html,r)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
  ### GitHub Stats 🌟 
