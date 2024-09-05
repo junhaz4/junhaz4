@@ -25,7 +25,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
 
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
