@@ -16,6 +16,8 @@
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="[https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg)" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
