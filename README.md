@@ -1,8 +1,12 @@
 ### Hi there I'm Junhao/Lawrence 👋
 
 ### About Me 👦
--  I'm a MS student@Columbia University <img height="20px" alt="columbia" src="https://github.com/xindixu/xindixu/blob/main/assets/columbia-icon.png"/>
+<!--
+-  I'm a MS student@Columbia University <img height="20px" alt="columbia" src="https://github.com/xindixu/xindixu/blob/main/assets/columbia-icon.png"/>//
 -  I’m currently learning: Java & Go.
+-->
+-  I'm a Machine Learning Engineer
+-  I’m currently using: Java & Python & Hadoop & Spark & SQL & Go
 -  I’m looking to collaborate on: Anything cool!
 -  How to reach me: jz3430@columbia.edu
 -  Pronouns: he/him
@@ -11,8 +15,10 @@
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
